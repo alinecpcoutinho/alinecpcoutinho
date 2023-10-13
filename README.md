@@ -1,12 +1,21 @@
 - 👋 Hi, I’m @alinecpcoutinho
 - 👀 I’m interested in Aprender mais linguagens de programação...
 - 🌱 I’m currently learning 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" heihgt=50px width=50px/>
-          , 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-          , 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-          ...
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px weight=50px/>
+          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=50px weight=50px />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50px weight=50px />
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=50px weight=50px />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height=50px weight=50px/>
+          
+          
+          
+  
+          
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - :sunglasses: Em transição de carreira... de saúde para tecnologia!
