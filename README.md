@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alinecpcoutinho
 - 👀 I’m interested in Aprender mais linguagens de programação...
 - 🌱 I’m currently learning 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" heihgt=50px width=50px/>
           , 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
           , 
