@@ -15,8 +15,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - :sunglasses: Em transição de carreira... de saúde para tecnologia!
-- 
-- ![Snake animation](https://github.com/alinecpcoutinho/alinecpcoutinho/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 alinecpcoutinho/alinecpcoutinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
